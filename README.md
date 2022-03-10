@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# web3-react-native
+# web3-reat-native
 [**Web3**](https://web3js.readthedocs.io/en/v1.2.6/) Native Modules for [**React Native**](https://reactnative.dev/).
 
 ## 🚀 Getting Started
