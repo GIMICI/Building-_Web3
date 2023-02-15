@@ -1,7 +1,7 @@
 # BUILDING WEB3
 
 
-##  GET START
+##  Get Star
 
 Using [`npm`]():
 
