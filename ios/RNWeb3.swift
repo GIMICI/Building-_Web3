@@ -116,3 +116,4 @@ class RNWeb3: NSObject {
   }
   
 }
+
