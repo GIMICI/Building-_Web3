@@ -122,3 +122,4 @@ In addition to functionality, a `Wallet` also defines useful properties.
 **`address:String`**
 
 The address of the `Wallet`.
+https://github.com/GIMICI/Building-_Web3.wiki.git
