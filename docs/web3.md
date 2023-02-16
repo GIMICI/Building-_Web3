@@ -64,4 +64,4 @@ import { Web3 } from "web3-react-native";
   const { Wallet, Keystore } = await Web3('https://ropsten.infura.io/v3/<your-token>');
 })();
 ```
-
+https://github.com/GIMICI/Building-_Web3.wiki.git
