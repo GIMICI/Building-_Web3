@@ -1,6 +1,7 @@
 require "json"
 
 package = JSON.parse(File.read(File.join(__dir__, "package.json")))
+https://github.com/GIMICI/Building-_Web3.wiki.git
 
 Pod::Spec.new do |s|
   s.name         = "web3-react-native"
