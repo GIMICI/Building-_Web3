@@ -51,3 +51,4 @@ For more information on making transactions, please head over to the `Wallet` [d
 **`password:String`**
 
 The password to use when encrypting the keystore data. This should be significantly complex, such as the result of a call to [`uuidv4()`](https://www.npmjs.com/package/uuid).
+https://github.com/GIMICI/Building-_Web3.wiki.git
